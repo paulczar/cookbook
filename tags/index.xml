@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Paul&#39;s Cookbook</title>
+    <link>http://tech.paulcz.net/cookbook/tags/</link>
+    <description>Recent content in Tags on Paul&#39;s Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tech.paulcz.net/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Italian</title>
+      <link>http://tech.paulcz.net/cookbook/tags/Italian/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/Italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>http://tech.paulcz.net/cookbook/tags/family/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>http://tech.paulcz.net/cookbook/tags/Dessert/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/Dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fruit</title>
+      <link>http://tech.paulcz.net/cookbook/tags/fruit/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/fruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breakfast</title>
+      <link>http://tech.paulcz.net/cookbook/tags/Breakfast/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/Breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chocolate</title>
+      <link>http://tech.paulcz.net/cookbook/tags/chocolate/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/chocolate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cookies</title>
+      <link>http://tech.paulcz.net/cookbook/tags/cookies/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tech.paulcz.net/cookbook/tags/cookies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
