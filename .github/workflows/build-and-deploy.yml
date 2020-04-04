@@ -4,7 +4,7 @@ on:
     branches: [master]
 jobs:
   build:
-    name: build-and-deploy
+    name: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -12,6 +12,10 @@ jobs:
           fetch-depth: 1
           submodules: true
       # - uses: ./.github/actions/spell-check
+  deploy:
+    name: deploy
+    runs-on: ubuntu-latest
+    steps:
       - uses: ./.github/actions/publish-gh-pages
         env:
           PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
