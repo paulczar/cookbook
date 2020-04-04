@@ -24,7 +24,7 @@ git worktree add -B gh-pages public origin/gh-pages
 
 echo "--> hugo publish"
 cd $GITHUB_WORKSPACE
-# /hugo
+/hugo --minify
 
 
 echo "--> push gh-pages"

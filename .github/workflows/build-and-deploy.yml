@@ -17,8 +17,6 @@ jobs:
         with:
           hugo-version: '0.68.3'
           extended: true
-      - name: Build Site
-        run: hugo --minify
       - name: Publish to GH Pages
         uses: ./.github/actions/publish-gh-pages
         env:
