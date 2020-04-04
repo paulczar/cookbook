@@ -14,6 +14,7 @@ jobs:
       # - uses: ./.github/actions/spell-check
   deploy:
     name: deploy
+    needs: [build]
     runs-on: ubuntu-latest
     steps:
       - uses: ./.github/actions/publish-gh-pages
