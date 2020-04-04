@@ -22,9 +22,9 @@ git config --global user.name "Hugo Publisher"
 echo "--> check out gh-pages"
 git worktree add -B gh-pages public origin/gh-pages
 
-echo "--> hugo publish"
-cd $GITHUB_WORKSPACE
-/hugo
+# echo "--> hugo publish"
+# cd $GITHUB_WORKSPACE
+# /hugo
 
 
 echo "--> push gh-pages"
